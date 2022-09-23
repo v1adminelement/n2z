@@ -148,7 +148,7 @@ export default function Home() {
             />    
             <h3 className={styles.landingText2}>BETA<br/>Project</h3>
             <h3 className={styles.landingText2}>SPA + UPDATES</h3>   
-            <h3 className={styles.landingText2}>WORTH £2000 ONLY £200 </h3>     
+            <h3 className={styles.landingText2}>WORTH £2000<br/>ONLY £200 </h3>     
        </div>      
 
        <div className={styles.container}>
