@@ -150,7 +150,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
   display: flex;
   justify-content: space-around; 
 }
- .home__h1{
+ /* .home__h1{
     font-size: 4.5rem; 
   }   
   .home__h1b{ font-size: 3rem; }
@@ -160,7 +160,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
     padding-right: 5rem;  
     
    }
-  .secTwo { font-size: 2rem; }
+  .secTwo { font-size: 2rem; } */
 
   .home__h1{
     font-size: 3rem; 
