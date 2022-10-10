@@ -150,18 +150,6 @@ background: linear-gradient(rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.85) 72%, #00
   display: flex;
   justify-content: space-around; 
 }
- /* .home__h1{
-    font-size: 4.5rem; 
-  }   
-  .home__h1b{ font-size: 3rem; }
-  .home__p{
-    font-size: 2rem; 
-    padding-left: 5rem;
-    padding-right: 5rem;  
-    
-   }
-  .secTwo { font-size: 2rem; } */
-
   .home__h1{
     font-size: 3rem; 
   }   

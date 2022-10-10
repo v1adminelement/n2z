@@ -35,7 +35,7 @@ export default function Home() {
          <div className={styles.gradientOverlay}></div>
             <Image
                 className={styles.landingImage}     
-                src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2ViJTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"            
+                src="https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2ViJTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"            
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'
@@ -110,7 +110,7 @@ export default function Home() {
          <div className={styles.gradientOverlay}></div>
             <Image
                 className={styles.landingImage}               
-                src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b2ZmaWNlJTIwcGxhbnRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" 
+                src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60" 
                 layout='fill'
                 objectFit='cover'
                 objectPosition='center'
@@ -148,7 +148,7 @@ export default function Home() {
             />    
             <h3 className={styles.landingText2}>BETA<br/>Project</h3>
             <h3 className={styles.landingText2}>SPA + UPDATES</h3>   
-            <h3 className={styles.landingText2}>WORTH £2000<br/>ONLY £200 </h3>     
+            <h3 className={styles.landingText2}>WORTH £4000<br/>ONLY £200 </h3>     
        </div>      
 
        <div className={styles.container}>
